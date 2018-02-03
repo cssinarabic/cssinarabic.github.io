@@ -4,7 +4,7 @@ current: post
 cover: assets/images/bus.jpg
 navigation: True
 title: Gettysburg Address
-date: 12018-02-03 10:18:00
+date: 2018-02-03 10:18:00
 tags: fera, der
 class: post-template
 subclass: 'post'
