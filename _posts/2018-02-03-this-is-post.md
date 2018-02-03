@@ -5,7 +5,7 @@ cover: assets/images/bus.jpg
 navigation: True
 title: Gettysburg Address
 date: 2018-02-03 10:18:00
-tags: fera, der
+tags: speeches fables
 class: post-template
 subclass: 'post'
 author: zanaty
